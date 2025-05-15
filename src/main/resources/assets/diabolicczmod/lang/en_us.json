@@ -1,0 +1,11 @@
+{
+    "item.diabolicczmod.donut": "Donut",
+    "item.diabolicczmod.donut_pickaxe": "Donut Pickaxe",
+    "item.diabolicczmod.donut_sword": "Donut Sword",
+    "item.diabolicczmod.donut_block": "Block of Donut",
+    "item.diabolicczmod.donut_ore": "Donut Ore",
+
+    "creativetab.diabolicczmod.donut_items_tabs": "Donut Items",
+    "creativetab.diabolicczmod.donut_tools_tabs": "Donut Tools",
+    "creativetab.diabolicczmod.donut_blocks_tabs": "Donut Block"
+}

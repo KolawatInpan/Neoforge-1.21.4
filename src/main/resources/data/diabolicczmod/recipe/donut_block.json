@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "d": "diabolicczmod:donut"
+    },
+    "pattern": [
+        "ddd",
+        "ddd",
+        "ddd"
+    ],
+    "result": {
+        "count": 1,
+        "id": "diabolicczmod:donut_block"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "category": "misc",
+    "key": {
+        "s": "minecraft:stick",
+        "d": "diabolicczmod:donut"
+    },
+    "pattern": [
+        "ddd",
+        " s ",
+        " s "
+    ],
+    "result": {
+        "count": 1,
+        "id": "diabolicczmod:donut_pickaxe"
+    }
+}
